@@ -9,11 +9,9 @@ conversion values printed on the screen
 # Algorithm: 
 Assign specific variable names with input functions that calculate conversions between units of measure. 
 # Test
-1. Description: Simplest non-zero situation
-Input: mL: 1
-Input: Professor Stefanelli
-Output: Description specific to Professor Stefanelli
-Output: Teaspoon(s): 0.2; Tablespoon(s): 0.0666667; Cup(s): 0.004167
+#1. Description: Simplest non-zero situation
+#Input: mL: 1
+#Output: Teaspoon(s): 0.2; Tablespoon(s): 0.0666667; Cup(s): 0.004167
 
 2. Description: Even number situation
 Input:2
